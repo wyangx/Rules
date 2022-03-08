@@ -1,2 +1,2 @@
 # Rules
-自用Quantumult X规则
+自用Quantumult X、 Shadowrocket规则
